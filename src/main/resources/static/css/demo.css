@@ -1,0 +1,13 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: "Times New Roman", SansSerif;
+    font-weight: bold;
+}
+
+p {
+    font-weight: lighter;
+    font-family: Tahoma, SansSerif;
+}
